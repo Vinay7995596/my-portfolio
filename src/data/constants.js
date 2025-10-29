@@ -14,7 +14,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Vinay7995596",
   resume:
-    "https://drive.google.com/file/d/1mCGnkAVH7SyvkY-Wmw2uZ0aO8rWDG5b2/view?usp=sharing",
+    "https://drive.google.com/file/d/1Y04NuBMsYpT9R_h8b0XHfPzp7kAfKaBZ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ragi-chettu-vinay-3b062b244/",
 };
 
