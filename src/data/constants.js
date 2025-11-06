@@ -64,7 +64,7 @@ export const experiences = [
     img: scanfii,
     role: "Frontend Developer",
     company: "SCANFII SOFTWARE TECHNOLOGIES",
-    date: "May 2024 - present",
+    date: "June 2023 - present",
     desc: "As a Frontend Developer, I build responsive and high-performance web applications using React.js, TypeScript, and Chakra UI. I focus on developing reusable, accessible UI components aligned with modern UX standards. Collaborated with cross-functional teams to optimize performance and maintain scalable codebases. Proficient in JavaScript (ES6+), React Query, Context API, and state management best practices. Committed to delivering clean, maintainable code and enhancing user experience across all devices.",
     skills: [
       "JavaScript",
@@ -81,7 +81,7 @@ export const experiences = [
     img: "https://grinfotech.com/wp-content/uploads/2019/08/GR-Logo-1.png",
     role: "Junior Software Developer Intern",
     company: "GR Infotech",
-    date: "May 2023 - July 2023",
+    date: "May 2023 - June 2023",
     desc: "Completed an internship as an Application Developer, contributing to projects in software engineering, UX design, and AI-driven solutions. Collaborated with technical leads to design and refine user-centric interfaces and application logic. Gained practical exposure to full-stack development, API integration, and debugging of existing systems. Enhanced understanding of software architecture, version control, and agile collaboration. Eager to apply my technical and problem-solving skills to deliver innovative, scalable solutions in real-world projects.",
     skills: [
       "Html",
