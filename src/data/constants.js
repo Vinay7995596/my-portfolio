@@ -4,6 +4,9 @@ import whatsapp from '../images/Whatsapp.jpeg';
 import todo from '../images/Todolist.png';
 import food from '../images/Foodmunch.jpeg';
 import nxtwatch from '../images/Nxtwatch.jpeg';
+import nodejs from '../images/Nodejs.png'
+import express from '../images/expressjs.png'
+import mongodb from '../images/mangoDb.jpg'
 export const Bio = {
   name: "Ragi Chettu Vinay",
   roles: [
@@ -14,7 +17,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Vinay7995596",
   resume:
-    "https://drive.google.com/file/d/1Y04NuBMsYpT9R_h8b0XHfPzp7kAfKaBZ/view?usp=sharing",
+    "https://drive.google.com/file/d/1LaBweCDaafjRRwcgFjr8vLifnfp-2FEs/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ragi-chettu-vinay-3b062b244/",
 };
 
@@ -55,6 +58,28 @@ export const skills = [
 
     ],
   },
+  {
+    title: "Backend",
+    skills: [
+      {
+        name: "Node Js",
+        image: nodejs
+          
+      },
+      {
+        name: "Express Js",
+        image:
+          express,
+      },
+
+      {
+        name: "Mongo DB",
+        image: mongodb,
+      },
+      
+
+    ],
+  },
 
 ];
 
@@ -64,7 +89,7 @@ export const experiences = [
     img: scanfii,
     role: "Frontend Developer",
     company: "SCANFII SOFTWARE TECHNOLOGIES",
-    date: "June 2023 - present",
+    date: "July 2023 - present",
     desc: "As a Frontend Developer, I build responsive and high-performance web applications using React.js, TypeScript, and Chakra UI. I focus on developing reusable, accessible UI components aligned with modern UX standards. Collaborated with cross-functional teams to optimize performance and maintain scalable codebases. Proficient in JavaScript (ES6+), React Query, Context API, and state management best practices. Committed to delivering clean, maintainable code and enhancing user experience across all devices.",
     skills: [
       "JavaScript",
