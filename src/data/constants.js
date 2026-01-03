@@ -4,9 +4,7 @@ import whatsapp from '../images/Whatsapp.jpeg';
 import todo from '../images/Todolist.png';
 import food from '../images/Foodmunch.jpeg';
 import nxtwatch from '../images/Nxtwatch.jpeg';
-import nodejs from '../images/Nodejs.png'
-import express from '../images/expressjs.png'
-import mongodb from '../images/mangoDb.jpg'
+
 export const Bio = {
   name: "Ragi Chettu Vinay",
   roles: [
@@ -17,7 +15,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Vinay7995596",
   resume:
-    "https://drive.google.com/file/d/1LaBweCDaafjRRwcgFjr8vLifnfp-2FEs/view?usp=sharing",
+    "https://drive.google.com/file/d/1RAry1XFqafSAAUtobmoCLr6b071_ytSJ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ragi-chettu-vinay-3b062b244/",
 };
 
@@ -58,28 +56,7 @@ export const skills = [
 
     ],
   },
-  {
-    title: "Backend",
-    skills: [
-      {
-        name: "Node Js",
-        image: nodejs
-          
-      },
-      {
-        name: "Express Js",
-        image:
-          express,
-      },
-
-      {
-        name: "Mongo DB",
-        image: mongodb,
-      },
-      
-
-    ],
-  },
+  
 
 ];
 
