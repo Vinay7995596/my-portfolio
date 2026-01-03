@@ -117,7 +117,7 @@ export const projects = [
     title: "Warranty Service Platform",
     description: "Engineered and enhanced key features for a comprehensive warranty service platform with three main modules: Customer Portal (implemented product lookup functionality and integrated real-time chat support), Supply Chain Management (optimized product tracking, workflow automation, and claim handling), and Product Claim Services (developed an intuitive interface for seamless warranty claim submissions). Built robust Excel data validation mechanisms for accurate import/export operations, designed interactive dashboards to display live product insights, and automated document generation and email communication pipelines to improve efficiency. Created a custom rich-text editor supporting formatted text and media embeds for dynamic content management. Collaborated with designers to craft responsive, cross-browser-compatible layouts. Participated in production deployments, resolving bugs and optimizing performance for scalability and reliability.",
     image: warranty,
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: ["Javascript", "HTML", "React Js", "Redux", "Chakra UI", "Typescript"],
     category: "web app",
     webapp: "N/A",
   },
